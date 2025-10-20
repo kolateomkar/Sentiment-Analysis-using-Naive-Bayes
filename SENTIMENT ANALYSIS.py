@@ -24,7 +24,7 @@ from sklearn.metrics import accuracy_score
 # In[2]:
 
 
-df = pd.read_csv("dataset-file-path")
+df = pd.read_csv("dataset-file-path") # write path of your dataset file
 
 
 # In[3]:
